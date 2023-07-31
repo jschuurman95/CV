@@ -1,0 +1,70 @@
+body {
+    background-color: #0f172a;
+}
+
+.container,
+.card-title,
+.container-intern,
+.skills,
+.contact-me {
+    color: #cbd5e1;
+}
+
+.intro {
+    color: #5eead4;
+}
+
+.explain,
+.card-text {
+    color: #94a3b8;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.highlight-text {
+    color: #5eead4;
+}
+
+.card {
+    background-color: #020b20bf;
+}
+
+img {
+    border-radius: 5%;
+}
+
+.badge {
+    background-color: #2dd4bf1a;
+    color: #5eead4;
+    font-size: 1rem;
+}
+
+.skills {
+    margin-top: 100px;
+}
+
+.interest {
+    height: 30vh;
+    display: grid;
+    grid-template-columns: 0.5fr 0.5fr;
+    grid-template-rows: 0.1fr 0.1fr;
+    width: 50%;
+    margin: 100px auto 0 auto;
+    row-gap: 2rem;
+    margin-top: 20px;
+}
+
+.contact-me {
+    text-align: center;
+}
+
+.btn {
+    margin-bottom: 70px;
+}
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
